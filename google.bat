@@ -1,2 +1,2 @@
 @echo off
-zerotier-cli join 363c67c55abab5e3
+zerotier-cli join 9bee8941b5bb0e01
