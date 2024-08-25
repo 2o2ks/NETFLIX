@@ -1,2 +1,2 @@
 @echo off
-ngrok tcp 22
+zerotier-cli.bat join db64858fedd278d8
